@@ -5,10 +5,10 @@ import plotly.graph_objs as go
 
 ########### Define your variables
 beers=['Chesapeake Stout', 'Snake Dog IPA', 'Imperial Porter', 'Double Dog IPA']
-ibu_values=[35, 60, 85, 75]
-abv_values=[5.4, 7.1, 9.2, 4.3]
-color1='darkred'
-color2='orange'
+ibu_values=[40, 60, 85, 85]
+abv_values=[7.0, 7.1, 9.2, 11.5]
+color1='darkblue'
+color2='green'
 mytitle='Beer Comparison'
 tabtitle='beer!'
 myheading='Flying Dog Beers'
